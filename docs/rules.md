@@ -1,13 +1,14 @@
-**Allgemeine Regeln:**
-> <details>
-> <summary>1. Kein Spam, Copy Pastas, usw.</summary>
-> (Viele GIFs und Emoji-Spam bitte vermeiden)
-> </details>
+# Allgemeine Regeln:
+<details>
+  <summary>1. Kein Spam, Copy Pastas, usw.</summary>
 
-> <details>
-> <summary>2. Verhaltet euch normal/Benutzt euren gesunden Menschenverstand!</summary>
-> (Wenn ihr denkt, dass etwas nicht erlaubt ist, dann macht es auch nicht :wink:)
-> </details>
+```Viele GIFs und Emoji-Spam bitte vermeiden```
+</details>
+
+<details>
+<summary>2. Verhaltet euch normal/Benutzt euren gesunden Menschenverstand!</summary>
+(Wenn ihr denkt, dass etwas nicht erlaubt ist, dann macht es auch nicht :wink:)
+</details>
 
 > [3] Seid respektvoll gegenüber Anderen
 > ||(Keine Beleidigungen, Mobbing usw.)||
