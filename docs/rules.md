@@ -1,6 +1,8 @@
 **Allgemeine Regeln:**
-> [1] Kein Spam, Copy Pastas, usw.
-> ||(Viele GIFs und Emoji-Spam bitte vermeiden)||
+> <details>
+>   <summary>1. Kein Spam, Copy Pastas, usw.</summary>
+>   (Viele GIFs und Emoji-Spam bitte vermeiden)
+> </details>
 
 > [2] Verhaltet euch normal/Benutzt euren gesunden Menschenverstand!
 > ||(Wenn ihr denkt, dass etwas nicht erlaubt ist, dann macht es auch nicht :wink:)||
