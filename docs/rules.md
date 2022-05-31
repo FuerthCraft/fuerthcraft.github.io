@@ -4,8 +4,10 @@
 >   (Viele GIFs und Emoji-Spam bitte vermeiden)
 > </details>
 
-> [2] Verhaltet euch normal/Benutzt euren gesunden Menschenverstand!
+> <details>
+> <summary>2. Verhaltet euch normal/Benutzt euren gesunden Menschenverstand!</summary>
 > ||(Wenn ihr denkt, dass etwas nicht erlaubt ist, dann macht es auch nicht :wink:)||
+> </details>
 
 > [3] Seid respektvoll gegenüber Anderen
 > ||(Keine Beleidigungen, Mobbing usw.)||
